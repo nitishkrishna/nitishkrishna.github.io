@@ -1,2 +1,3 @@
-# nitishkrishna.github.io
-Github Pages Website
+# My Personal Blog
+
+Forked from [Jekyll-Now](https://github.com/barryclark/jekyll-now/)
