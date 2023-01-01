@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey! My name is Nitish Krishna and this is my personal blog.
 
-### More Information
+I work at (Cruise)[https://getcruise.com], the self-driving car company as a Senior Software Engineer.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+In my free time I love going on hikes with my wife Gabby and reading fiction and non-fiction while our two cats Yuri and Renzo sleep nearby.

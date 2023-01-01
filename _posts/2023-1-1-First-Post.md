@@ -1,12 +1,15 @@
 ---
-title: My First Post
+title: My First Post Here
 author: nitishkrishna
 layout: post
-permalink: /first-post/
-categories:
-  - General
 ---
 
-## Things Start Here
+### Things Start Here
 
-Starting the New Year with the first post on my self-hosted personal blog. Happy New Year 2023 everyone!
+Starting the New Year with the first post on my self-hosted personal blog.
+
+Happy New Year 2023 everyone!
+
+![2023]({{ site.baseurl }}/images/2023.png "2023")
+
+[Image by callmetak](https://www.freepik.com/free-vector/year-2023-logo-fireworks-blue-background-vector-illustration_29083781.htm) on Freepik
